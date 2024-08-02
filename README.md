@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ni-25git.github.io/](https://ni-25git.github.io/)
 
-- 💬 Ask me about **React Native,JavaScript**
+- 💬 Ask me about **ReactJS,MERN**
 
 - 📫 How to reach me **nipunsherawat@gmail.com**
 
