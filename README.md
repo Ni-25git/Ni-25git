@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [evenhour-clone](https://everhourclone23.netlify.app/)
 
+- 🍃 I, m currently learning **MERN Stack**
+
 - 👨‍💻 All of my projects are available at [https://ni-25git.github.io/](https://ni-25git.github.io/)
 
 - 💬 Ask me about **ReactJS,MERN**
