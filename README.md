@@ -14,7 +14,7 @@
 - 📫 How to reach me **nipunsherawat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-[evenhour-clone](https://www.linkedin.com/in/nipun-shaharavat-40927b2a3/)
+[Linkedn](https://www.linkedin.com/in/nipun-shaharavat-40927b2a3/)
 <p align="left">
 </p>
 
