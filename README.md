@@ -14,7 +14,7 @@
 - 📫 How to reach me **nipunsherawat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-[Linkedn](https://www.linkedin.com/in/nipun-shaharavat-40927b2a3/)
+<a href="https://www.linkedin.com/in/nipun-shaharavat-40927b2a3" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th?id=OIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa&pid=Api&P=0&h=180" alt="css3" width="40" height="40"/>
 <p align="left">
 </p>
 
