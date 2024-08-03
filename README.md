@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nipun Shaharavat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="right"> <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="gif-img" /> </p>
+<p align="center"> <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="gif-img" height="100" width="300" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ni-25git&label=Profile%20views&color=0e75b6&style=flat" alt="ni-25git" /> </p>
 
